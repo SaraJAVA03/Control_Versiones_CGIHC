@@ -11,11 +11,11 @@
 
 ---
 
-### Datos del Alumno:
+### Alumno:
 * **NOMBRE COMPLETO:** Jasso Vázquez Sara
 * **Nº de Cuenta:** 319294143
 
-### Datos del Grupo:
+### Grupo:
 * **GRUPO DE LABORATORIO:** 02
 * **GRUPO DE TEORÍA:** 04
 * **SEMESTRE:** 2026-1
