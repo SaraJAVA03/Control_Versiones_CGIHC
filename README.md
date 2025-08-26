@@ -11,8 +11,8 @@
 
 ---
 
-* **PRACTICA2**
-* Proyecciones, Transformaciones geométricas 
+### PRACTICA2
+#### Proyecciones, Transformaciones geométricas 
 
 ### Alumno:
 * **NOMBRE COMPLETO:** Jasso Vázquez Sara
