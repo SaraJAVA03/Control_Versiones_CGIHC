@@ -10,7 +10,7 @@
 ### LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
 
 ---
-### Alumno:
+
 * **PRACTICA2**
 * Proyecciones, Transformaciones geométricas 
 
