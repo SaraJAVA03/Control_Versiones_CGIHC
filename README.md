@@ -10,6 +10,7 @@
 ### LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
 
 ---
+### PRACTICA 03. Modelado Geométrico y Cámara Sintética
 
 ### Alumno:
 * **NOMBRE COMPLETO:** Jasso Vázquez Sara
